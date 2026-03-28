@@ -2,4 +2,5 @@
 DVCS-Distributed version control system
 CVCS - centralised version control system and A PR in GitHub stands for Pull Request
 PR is a proposal to merge code changes from one branch into another
-CVCS- Centralised version control system
+Repository is a place where we can add, edit and save the files.
+Two types of repo are local & remote.
