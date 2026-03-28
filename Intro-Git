@@ -1,2 +1,4 @@
  Git is a version control system that intelligently tracks changes in files. Git is particularly useful when you and a group of people are all making changes to the same files at the same time. 
  (DVCS) is a system where every developer has a complete local copy of the entire project, including its history, and they can work offline. Changes can be made locally, and later synchronized with other developers’ versions
+
+A PR in GitHub stands for Pull Request, which is a proposal to merge code changes from one branch into another
