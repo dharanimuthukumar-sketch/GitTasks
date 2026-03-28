@@ -4,4 +4,7 @@ CVCS - centralised version control system and A PR in GitHub stands for Pull Req
 PR is a proposal to merge code changes from one branch into another
 CVCS- Centralised version control system
 Repo- a local repository resides on your personal computer, providing speed and offline access for your work
-Remote repository is hosted on a separate server or cloud platform (like GitHub or GitLab
+Remote repository is hosted on a separate server or cloud platform (like GitHub or GitLab)
+we need network to merge, push the code to remote repo.
+we can make changes or add features in local repo but we need network to push it to remote.
+============================ notes of today's session ============================================
