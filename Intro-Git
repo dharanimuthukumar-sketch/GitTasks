@@ -1,3 +1,5 @@
  Git is a version control system that intelligently tracks changes in files. Git is particularly useful when you and a group of people are all making changes to the same files at the same time. 
- DVCS-Distributed version control system
+DVCS-Distributed version control system
+CVCS - centralised version control system and A PR in GitHub stands for Pull Request
+PR is a proposal to merge code changes from one branch into another
 CVCS- Centralised version control system
